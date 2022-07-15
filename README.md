@@ -1,5 +1,4 @@
-
-# Nombre final del curso
+Neo4j esencial: Bases de datos orientadas grafos
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
@@ -7,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El c
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+En este curso verás desde la introducción hasta el completo desarrollo de un proyecto de base de datos con Neo4j. Partiendo de una introducción sobre lo que son las bases de datos, verás en qué se diferencia Neo4j frente a otros sistemas y por qué podría serte útil. Después aprenderás sobre sus características y el lenguaje Cypher para leer y escribir sobre la base de datos. Por último, verás conceptos sobre algoritmia y consultas avanzadas. El contenido es eminentemente práctico, y al terminar serás capaz de aplicar estos conocimientos en tus propios proyectos. 
 
 ## Instrucciones
 
@@ -27,7 +26,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Beatriz Hernández**
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
