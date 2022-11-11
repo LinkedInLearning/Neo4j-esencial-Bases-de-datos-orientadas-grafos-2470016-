@@ -1,6 +1,6 @@
-Neo4j esencial: Bases de datos orientadas grafos
+# Neo4j esencial: Bases de datos orientadas grafos
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Neo4j esencial: Bases de datos orientadas grafos]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
@@ -28,7 +28,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 **Beatriz Hernández**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/bea-hernandez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
