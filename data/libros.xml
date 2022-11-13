@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<catalogo>
+   <libro id="l101">
+      <autor>4j, Neo</autor>
+      <titulo>Importar datos</titulo>
+      <genero>Base de datos</genero>
+      <precio>44.95</precio>
+      <fecha>2000-10-01</fecha>
+   </libro>
+   <libro id="l102">
+      <autor>4j, Neo</autor>
+      <titulo>Los libros en Neo4j</titulo>
+      <genero>Fantasia</genero>
+      <precio>5.95</precio>
+      <fecha>2000-12-16</fecha>
+	</libro>
+</catalogo>
