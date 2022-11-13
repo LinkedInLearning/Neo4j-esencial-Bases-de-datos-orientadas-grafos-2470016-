@@ -1,0 +1,17 @@
+CREATE (nSaray:Usuario {nombre:'Saray'})
+CREATE (nMaria:Usuario {nombre:'Maria'})
+CREATE (nDani:Usuario {nombre:'Dani'})
+CREATE (nPedro:Usuario {nombre:'Pedro'})
+CREATE (nMarcos:Usuario {nombre:'Marcos'})
+CREATE (nSergio:Usuario {nombre:'Sergio'})
+
+CREATE (nSaray)-[:SIGUE_A]->(nMaria)
+CREATE (nSaray)-[:SIGUE_A]->(nDani)
+CREATE (nMarcos)-[:SIGUE_A]->(nPedro)
+CREATE (nMarcos)-[:SIGUE_A]->(nSergio)
+CREATE (nMaria)-[:SIGUE_A]->(nSergio)
+CREATE (nPedro)-[:SIGUE_A]->(nMarcos)
+CREATE (nSergio)-[:SIGUE_A]->(nSaray)
+CREATE (nSaray)-[:SIGUE_A]->(nSergio)
+CREATE (nMaria)-[:SIGUE_A]->(nSaray)
+CREATE (nSergio)-[:SIGUE_A]->(nMaria);
